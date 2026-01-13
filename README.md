@@ -12,7 +12,7 @@
 🎓 BSc CSIT Student  
 💻 Working on Full-Stack Development  
 ❤️ Love coding, debugging, and learning new stuff  
-🚀 Passionate about turning ideas into real applications  
+🚀 Passionate about turning ideas into real application. 
 
 ---
 
